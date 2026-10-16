@@ -1,4 +1,14 @@
+<!-- BEGIN public-repo-header -->
+<div align="center">
+
 # TheDistillery_PseudorigEverything
+
+<a href="https://github.com/blackmath88/TheDistillery_PseudoragEverything"><img alt="Primary language: Python" src="https://img.shields.io/badge/language-Python-526078?style=flat"></a>
+<a href="https://github.com/blackmath88/TheDistillery_PseudoragEverything#readme"><img alt="README" src="https://img.shields.io/badge/docs-readme-16796f?style=flat"></a>
+<a href="https://github.com/blackmath88/TheDistillery_PseudoragEverything/commits/main"><img alt="Last commit" src="https://img.shields.io/github/last-commit/blackmath88/TheDistillery_PseudoragEverything?style=flat&amp;color=737373"></a>
+
+</div>
+<!-- END public-repo-header -->
 
 Local-first distillation pipeline for turning raw notes, transcripts, and PDFs into structured project artifacts.
 
